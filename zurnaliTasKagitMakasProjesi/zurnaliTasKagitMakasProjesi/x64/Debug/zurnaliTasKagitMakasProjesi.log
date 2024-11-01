@@ -1,0 +1,3 @@
+﻿  src.c
+C:\Users\segad\source\repos\zurnaliTasKagitMakasProjesi\zurnaliTasKagitMakasProjesi\src.c(7,7): warning C4101: 'ifUserEnteredAnworngValue': unreferenced local variable
+  zurnaliTasKagitMakasProjesi.vcxproj -> C:\Users\segad\source\repos\zurnaliTasKagitMakasProjesi\x64\Debug\zurnaliTasKagitMakasProjesi.exe

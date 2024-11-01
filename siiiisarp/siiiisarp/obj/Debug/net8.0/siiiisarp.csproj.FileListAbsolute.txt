@@ -1,0 +1,14 @@
+C:\Users\segad\source\repos\siiiisarp\siiiisarp\bin\Debug\net8.0\siiiisarp.exe
+C:\Users\segad\source\repos\siiiisarp\siiiisarp\bin\Debug\net8.0\siiiisarp.deps.json
+C:\Users\segad\source\repos\siiiisarp\siiiisarp\bin\Debug\net8.0\siiiisarp.runtimeconfig.json
+C:\Users\segad\source\repos\siiiisarp\siiiisarp\bin\Debug\net8.0\siiiisarp.dll
+C:\Users\segad\source\repos\siiiisarp\siiiisarp\bin\Debug\net8.0\siiiisarp.pdb
+C:\Users\segad\source\repos\siiiisarp\siiiisarp\obj\Debug\net8.0\siiiisarp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\siiiisarp\siiiisarp\obj\Debug\net8.0\siiiisarp.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\siiiisarp\siiiisarp\obj\Debug\net8.0\siiiisarp.AssemblyInfo.cs
+C:\Users\segad\source\repos\siiiisarp\siiiisarp\obj\Debug\net8.0\siiiisarp.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\siiiisarp\siiiisarp\obj\Debug\net8.0\siiiisarp.dll
+C:\Users\segad\source\repos\siiiisarp\siiiisarp\obj\Debug\net8.0\refint\siiiisarp.dll
+C:\Users\segad\source\repos\siiiisarp\siiiisarp\obj\Debug\net8.0\siiiisarp.pdb
+C:\Users\segad\source\repos\siiiisarp\siiiisarp\obj\Debug\net8.0\siiiisarp.genruntimeconfig.cache
+C:\Users\segad\source\repos\siiiisarp\siiiisarp\obj\Debug\net8.0\ref\siiiisarp.dll
