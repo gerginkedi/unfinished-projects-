@@ -1,0 +1,14 @@
+C:\Users\segad\source\repos\buNedirYa\buNedirYa\bin\Debug\net8.0\buNedirYa.exe
+C:\Users\segad\source\repos\buNedirYa\buNedirYa\bin\Debug\net8.0\buNedirYa.deps.json
+C:\Users\segad\source\repos\buNedirYa\buNedirYa\bin\Debug\net8.0\buNedirYa.runtimeconfig.json
+C:\Users\segad\source\repos\buNedirYa\buNedirYa\bin\Debug\net8.0\buNedirYa.dll
+C:\Users\segad\source\repos\buNedirYa\buNedirYa\bin\Debug\net8.0\buNedirYa.pdb
+C:\Users\segad\source\repos\buNedirYa\buNedirYa\obj\Debug\net8.0\buNedirYa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\buNedirYa\buNedirYa\obj\Debug\net8.0\buNedirYa.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\buNedirYa\buNedirYa\obj\Debug\net8.0\buNedirYa.AssemblyInfo.cs
+C:\Users\segad\source\repos\buNedirYa\buNedirYa\obj\Debug\net8.0\buNedirYa.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\buNedirYa\buNedirYa\obj\Debug\net8.0\buNedirYa.dll
+C:\Users\segad\source\repos\buNedirYa\buNedirYa\obj\Debug\net8.0\refint\buNedirYa.dll
+C:\Users\segad\source\repos\buNedirYa\buNedirYa\obj\Debug\net8.0\buNedirYa.pdb
+C:\Users\segad\source\repos\buNedirYa\buNedirYa\obj\Debug\net8.0\buNedirYa.genruntimeconfig.cache
+C:\Users\segad\source\repos\buNedirYa\buNedirYa\obj\Debug\net8.0\ref\buNedirYa.dll
