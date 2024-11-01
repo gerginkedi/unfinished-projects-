@@ -1,0 +1,4 @@
+﻿  real.c
+C:\Users\segad\source\repos\ever c\ever c\real.c(4,9): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Users\segad\source\repos\ever c\ever c\real.c(4,9): warning C4024: 'printf': different types for formal and actual parameter 1
+  ever c.vcxproj -> C:\Users\segad\source\repos\ever c\x64\Debug\ever c.exe
