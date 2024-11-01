@@ -1,0 +1,16 @@
+C:\Users\segad\source\repos\pigeon test\pigeon test\bin\Debug\net8.0-windows\pigeon test.exe
+C:\Users\segad\source\repos\pigeon test\pigeon test\bin\Debug\net8.0-windows\pigeon test.deps.json
+C:\Users\segad\source\repos\pigeon test\pigeon test\bin\Debug\net8.0-windows\pigeon test.runtimeconfig.json
+C:\Users\segad\source\repos\pigeon test\pigeon test\bin\Debug\net8.0-windows\pigeon test.dll
+C:\Users\segad\source\repos\pigeon test\pigeon test\bin\Debug\net8.0-windows\pigeon test.pdb
+C:\Users\segad\source\repos\pigeon test\pigeon test\obj\Debug\net8.0-windows\pigeon_test.Form1.resources
+C:\Users\segad\source\repos\pigeon test\pigeon test\obj\Debug\net8.0-windows\pigeon test.csproj.GenerateResource.cache
+C:\Users\segad\source\repos\pigeon test\pigeon test\obj\Debug\net8.0-windows\pigeon test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segad\source\repos\pigeon test\pigeon test\obj\Debug\net8.0-windows\pigeon test.AssemblyInfoInputs.cache
+C:\Users\segad\source\repos\pigeon test\pigeon test\obj\Debug\net8.0-windows\pigeon test.AssemblyInfo.cs
+C:\Users\segad\source\repos\pigeon test\pigeon test\obj\Debug\net8.0-windows\pigeon test.csproj.CoreCompileInputs.cache
+C:\Users\segad\source\repos\pigeon test\pigeon test\obj\Debug\net8.0-windows\pigeon test.dll
+C:\Users\segad\source\repos\pigeon test\pigeon test\obj\Debug\net8.0-windows\refint\pigeon test.dll
+C:\Users\segad\source\repos\pigeon test\pigeon test\obj\Debug\net8.0-windows\pigeon test.pdb
+C:\Users\segad\source\repos\pigeon test\pigeon test\obj\Debug\net8.0-windows\pigeon test.genruntimeconfig.cache
+C:\Users\segad\source\repos\pigeon test\pigeon test\obj\Debug\net8.0-windows\ref\pigeon test.dll
